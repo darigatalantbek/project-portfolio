@@ -1,0 +1,17 @@
+.footer_cont{
+    width: auto;
+    padding: 20px 70px;
+    font-family: "Roboto Flex", sans-serif;
+}
+
+.footer_cont_title{
+    font-weight: 600;
+    font-size: 40px;
+    padding-bottom: 15px;
+}
+
+.footer_cont_text {
+    font-weight: 500;
+    font-size: 25px;
+    padding-bottom: 10px;
+}

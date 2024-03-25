@@ -1,0 +1,20 @@
+.home_container{
+    display: flex;
+    flex-direction: column;
+    padding: 100px 70px;
+    background-color: black;
+    color: white;
+    font-family: "Roboto Flex", sans-serif;
+}
+
+.home_container_title{
+    padding-bottom: 20px;
+    font-weight: 600;
+    font-size: 70px;
+}
+
+.home_containe_text{
+    padding-bottom: 10px;
+    font-weight: 400;
+    font-size: 35px;
+}

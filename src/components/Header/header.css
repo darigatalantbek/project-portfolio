@@ -1,0 +1,33 @@
+.container{
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 70px;
+}
+
+.left{
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+}
+
+.right {
+    display: flex;
+    gap: 15px;
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+#text{
+    color: black;
+    text-decoration: none;
+}
+
+#text:hover{
+    cursor: pointer;
+    color: #868686;
+}
